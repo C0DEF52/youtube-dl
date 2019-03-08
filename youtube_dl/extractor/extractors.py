@@ -729,6 +729,7 @@ from .neteasemusic import (
     NetEaseMusicProgramIE,
     NetEaseMusicDjRadioIE,
 )
+from .netology import NetologyIE
 from .newgrounds import (
     NewgroundsIE,
     NewgroundsPlaylistIE,
